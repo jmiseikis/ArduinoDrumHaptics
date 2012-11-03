@@ -20,4 +20,4 @@ for us. Hardware used:
 * 4x Amplifiers
 * Asus Transformer Prime as a drumset
 
-![Hardware](./ArduinoDrumHaptics/Images/hardware.jpg)
+![Hardware](https://github.com/jmiseikis/ArduinoDrumHaptics/blob/master/Images/hardware.jpg)
