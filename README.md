@@ -1,4 +1,23 @@
 ArduinoDrumHaptics
 ==================
 
-Providing haptic feedback depending on the input sound frequency. Tested with drums app on Android. Based on Arduino.
+The code was developed as a part of few days long project in the 
+summer school TESP 2012 Robotics at Tohoku University, Japan. 
+The purpose of the system was to take audio input, either mic or 
+directly from the phone/tablet, analyse sound frequencies and amplitude 
+and provide a haptic feedback using four vibration actuators.
+
+The system was demonstrated by using a simulated drums app on an Android 
+tablet while getting a haptic feedback to your wrists as you play using 
+our unique conductive drumstics :-) Simple matching of frequency changes gave 
+a realistic effect.
+
+The project was based on Arduino Uno board and it was the first time using Arduino 
+for us. Hardware used:
+* Arduino Uno board
+* Spectrum Analyzer https://www.sparkfun.com/products/10306
+* 4x vibrating actuators
+* 4x Amplifiers
+* Asus Transformer Prime as a drumset
+
+![Hardware](/images/hardware.jpg)
