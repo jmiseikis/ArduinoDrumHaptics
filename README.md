@@ -20,15 +20,15 @@ for us. Hardware used:
 * 2x 2 channel Amplifiers
 * Asus Transformer Prime as a drumset
 
-Pins used:
+__Pins used:__
 
 Spectrum Analyser inputs:
-int spectrumReset=5;
-int spectrumStrobe=4;
-int spectrumAnalog=0;
+* int spectrumReset=5;
+* int spectrumStrobe=4;
+* int spectrumAnalog=0;
 
 Actuator outputs:
-Pins 9 - 12
+* Pins 9 - 12
 
 Just add the code to the Arduino project and given the correct pin configuration, the program 
 should be working.
