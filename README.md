@@ -1,4 +1,4 @@
-ArduinoDrumHaptics
+Arduino Virtual Drum Haptics
 ==================
 
 The code was developed as a part of few days long project in the 
