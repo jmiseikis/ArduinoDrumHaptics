@@ -17,7 +17,7 @@ for us. Hardware used:
 * Arduino Uno board
 * Spectrum Analyzer https://www.sparkfun.com/products/10306
 * 4x vibrating actuators
-* 4x Amplifiers
+* 2x 2 channel Amplifiers
 * Asus Transformer Prime as a drumset
 
 Project presentation: http://www.slideshare.net/jmiseikis/tesp-2012-drums-haptic-interface
