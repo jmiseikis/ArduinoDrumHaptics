@@ -20,4 +20,4 @@ for us. Hardware used:
 * 4x Amplifiers
 * Asus Transformer Prime as a drumset
 
-![Hardware](/images/hardware.jpg)
+![Hardware](/Images/hardware.jpg)
