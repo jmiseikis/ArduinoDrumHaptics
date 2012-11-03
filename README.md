@@ -20,4 +20,8 @@ for us. Hardware used:
 * 4x Amplifiers
 * Asus Transformer Prime as a drumset
 
+Project presentation: http://www.slideshare.net/jmiseikis/tesp-2012-drums-haptic-interface
+
+Hardware setup:
+
 ![Hardware](https://raw.github.com/jmiseikis/ArduinoDrumHaptics/master/Images/hardware.jpg)
